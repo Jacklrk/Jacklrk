@@ -75,7 +75,4 @@
 
 ---
 
-<h3 align="center">👁️ Profile Visits</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/jacklrk/count.svg" alt="Visitor Count" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacklrk&label=Profile%20views&color=0e75b6&style=flat" alt="jacklrk" /> </p>
