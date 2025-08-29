@@ -15,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:jsanchezm1709@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jsanchezm1709@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/jair-alexandro-sánchez-martínez-2245681b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Jacklrk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
