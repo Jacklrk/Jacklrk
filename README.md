@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me  
-◉ I'm 24 years old.
-◉ Computer Systems Engineer.  
+◉ I'm 24 years old.**
+◉ Computer Systems Engineer.**  
 ◉ I'm passionate about **software development, IoT, web and mobile applications.**
-◉ I'm currently learning Angular & React.
+◉ I'm currently learning Angular & React.**
 
 ---
 
@@ -37,10 +37,8 @@
 <h3 align="left">📚 Frameworks & Libraries</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
