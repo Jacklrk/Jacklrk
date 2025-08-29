@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jair Sanchez</h1>
 <h3 align="center">A passionate software developer from Mexico</h3>
 
-<h4 align="center">💻 **Software Engineer | IoT & Embedded Systems | Web & Mobile Developer**</h4>
+<h4 align="center">💻 Software Engineer | IoT & Embedded Systems | Web & Mobile Developer</h4>
 
 ---
 
 ## 🚀 About Me  
-◉ I'm 24 years old.**
-◉ Computer Systems Engineer.**  
+◉ I'm 24 years old.
+◉ Computer Systems Engineer.  
 ◉ I'm passionate about **software development, IoT, web and mobile applications.**
-◉ I'm currently learning Angular & React.**
+◉ I'm currently learning Angular & React.
 
 ---
 
