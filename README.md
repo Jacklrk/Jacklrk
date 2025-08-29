@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me  
-◉ I'm 24 years old.
-◉ Computer Systems Engineer.  
-◉ I'm passionate about **software development, IoT, web and mobile applications.**
-◉ I'm currently learning Angular & React.
+◉ I'm 24 years old. <br>  
+◉ Computer Systems Engineer. <br>  
+◉ I'm passionate about **software development, IoT, web and mobile applications.** <br>  
+◉ I'm currently learning **Angular & React.** <br>  
 
 ---
 
@@ -64,7 +64,18 @@
 </p>
 
 ---
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacklrk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jacklrk" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacklrk&show_icons=true&locale=en&layout=compact" alt="jacklrk" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacklrk&show_icons=true&locale=en&theme=tokyonight" alt="jacklrk" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacklrk&show_icons=true&locale=en" alt="jacklrk" /></p>
+---
+
+<h3 align="center">👁️ Profile Visits</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jacklrk/count.svg" alt="Visitor Count" />
+</p>
